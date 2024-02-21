@@ -21,7 +21,10 @@ $ npm run start
 
 ## Test
 # unit tests
+```bash
 $ npm run test
+```
+
 ## Stay in touch
 
 - Author - Eranda Sanjaya
