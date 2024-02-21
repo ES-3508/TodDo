@@ -9,6 +9,7 @@ app.use(bodyParser.json());
 // Parse URL-encoded bodies
 app.use(bodyParser.urlencoded({ extended: true }));
 
+// Add toDo routes to API
 app.use('/api/todos', router);
 
 // Health check route
