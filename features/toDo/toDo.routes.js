@@ -1,6 +1,6 @@
 const express = require('express');
 const router = express.Router();
-const todoController = require('./toDoController');
+const todoController = require('./toDo.controller');
 const dummyAuthMiddleware = require('../../middleware/dummyMiddleware');
 
 // protected route with dummy middleware
