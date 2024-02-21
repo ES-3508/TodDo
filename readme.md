@@ -17,15 +17,11 @@ $ npm install
 ```bash
 # development
 $ npm run start
-   node index.js
+```
 
 ## Test
-
-```bash
 # unit tests
 $ npm run test
-
-
 ## Stay in touch
 
 - Author - Eranda Sanjaya
