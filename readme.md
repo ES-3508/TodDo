@@ -19,8 +19,8 @@ $ npm install
 $ npm run start
 ```
 
-## Test
-# unit tests
+# Test
+## unit tests
 ```bash
 $ npm run test
 ```
