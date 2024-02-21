@@ -4,13 +4,9 @@ package-lock.json
 npm-debug.log
 yarn-error.log
 
-# Ignore environment files
-.env
-.env.local
+# Ignore local environment files
 
-# Ignore testing files
-__tests__/
-test/
+.env.local
 
 # Ignore coverage reports
 coverage/
