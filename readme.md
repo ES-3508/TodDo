@@ -8,13 +8,24 @@ This is a simple Node.js API for a ToDo application.
 
 ## Installation
 
-1. Clone the repository to your local machine:
+```bash
+$ npm install
+```
 
-   ```bash
-   git clone (https://github.com/ES-3508/TodDo.git)
+## Running the app
 
-   ```bash
-   npm i 
-
-   ```bash
+```bash
+# development
+$ npm run start
    node index.js
+
+## Test
+
+```bash
+# unit tests
+$ npm run test
+
+
+## Stay in touch
+
+- Author - Eranda Sanjaya
