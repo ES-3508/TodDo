@@ -1,6 +1,8 @@
 const express = require('express');
 const bodyParser = require('body-parser');
 const router = require('./features/toDo/toDo.routes');
+require('dotenv').config();
+
 const app = express();
 
 // Parse JSON bodies
